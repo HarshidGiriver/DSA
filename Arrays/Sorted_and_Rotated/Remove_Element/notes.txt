@@ -1,0 +1,17 @@
+
+
+**Notes — Remove Element (My Approach)**
+
+* The goal is to remove all occurrences of a given value `val` from the array in-place and return the new length.
+* I use a variable `result` to track the position where the next valid element should be placed.
+* I traverse the array using a loop.
+* If the current element is not equal to `val`, I copy it to `nums[result]` and increment `result`.
+* This way, all valid elements are shifted to the front of the array.
+* Elements equal to `val` are skipped automatically because they are never copied.
+* At the end, `result` represents the count of elements that are not equal to `val`, which is returned as the new length.
+
+**Time Complexity:** O(N)
+**Space Complexity:** O(1)
+
+**Key learning:**
+Using a pointer (`result`) helps overwrite unwanted elements while keeping valid elements in order.
