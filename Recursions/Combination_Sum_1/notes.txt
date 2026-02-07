@@ -1,0 +1,80 @@
+
+
+COMBINATION SUM — MUSCLE MEMORY NOTES
+
+Problem idea:
+Find all combinations whose sum = target.
+Elements CAN be reused.
+
+---
+
+Function parameters:
+index  → current position in array
+target → remaining sum
+curr   → current combination
+ans    → final result list
+
+---
+
+BASE CASES (write first)
+
+1. Success case
+   If target == 0
+   → add copy of curr to ans
+   → return
+
+2. Stop case
+   If index == arr.length
+   → return
+
+---
+
+CHOICES (always in this order)
+
+1. PICK
+   Condition:
+   arr[index] <= target
+
+Steps:
+
+* add arr[index] to curr
+* call recursion with SAME index
+* subtract arr[index] from target
+* remove last element (backtrack)
+
+Memory rule:
+Pick → stay at index
+
+---
+
+2. NOT PICK
+
+Steps:
+
+* call recursion with index + 1
+
+Memory rule:
+Skip → move forward
+
+---
+
+ORDER TO WRITE CODE (important)
+
+1. target == 0
+2. index == n
+3. pick
+4. backtrack
+5. not pick
+
+---
+
+
+TIME COMPLEXITY
+Exponential (backtracking)
+
+SPACE COMPLEXITY
+O(depth of recursion)
+
+---
+
+ 
