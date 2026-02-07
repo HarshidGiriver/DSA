@@ -1,0 +1,19 @@
+
+
+**Notes — Sorted and Rotated Array (My Approach)**
+
+* I traverse the array in a circular way using `% N` so that the last element is compared with the first.
+* I keep a variable `count` to track how many elements are in continuous non-decreasing order.
+* If the current element is greater than or equal to the previous element, I increase `count`.
+* If the order breaks (current element smaller than previous), I reset `count` to 1.
+* Since I loop up to `2 * N`, I ensure that any valid sorted circular sequence of length `N` is detected.
+* If at any point `count == N`, it means the array is sorted in circular order, so I return `true`.
+* If no such sequence is found, the array is not sorted and rotated.
+
+**Time Complexity:** O(N)
+**Space Complexity:** O(1)
+
+**Key learning:**
+Circular traversal using modulo helps detect sorted order even after rotation.
+
+
