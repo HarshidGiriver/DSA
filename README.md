@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/HarshidGiriver/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/HarshidGiriver/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0410-split-array-largest-sum](https://github.com/HarshidGiriver/DSA/tree/master/0410-split-array-largest-sum) |
+| [0704-binary-search](https://github.com/HarshidGiriver/DSA/tree/master/0704-binary-search) |
 | [1095-find-in-mountain-array](https://github.com/HarshidGiriver/DSA/tree/master/1095-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshidGiriver/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3046-split-the-array](https://github.com/HarshidGiriver/DSA/tree/master/3046-split-the-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/HarshidGiriver/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/HarshidGiriver/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0410-split-array-largest-sum](https://github.com/HarshidGiriver/DSA/tree/master/0410-split-array-largest-sum) |
+| [0704-binary-search](https://github.com/HarshidGiriver/DSA/tree/master/0704-binary-search) |
 | [1095-find-in-mountain-array](https://github.com/HarshidGiriver/DSA/tree/master/1095-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshidGiriver/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Interactive
