@@ -66,4 +66,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/HarshidGiriver/DSA/tree/master/0069-sqrtx) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/HarshidGiriver/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 <!---LeetCode Topics End-->
