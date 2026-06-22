@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HarshidGiriver/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/HarshidGiriver/DSA/tree/master/1095-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshidGiriver/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/HarshidGiriver/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3046-split-the-array](https://github.com/HarshidGiriver/DSA/tree/master/3046-split-the-array) |
 ## Binary Search
 |  |
