@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/HarshidGiriver/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/HarshidGiriver/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/HarshidGiriver/DSA/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/HarshidGiriver/DSA/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshidGiriver/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/HarshidGiriver/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/HarshidGiriver/DSA/tree/master/0875-koko-eating-bananas) |
@@ -73,5 +74,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/HarshidGiriver/DSA/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/HarshidGiriver/DSA/tree/master/0441-arranging-coins) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/HarshidGiriver/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 <!---LeetCode Topics End-->
