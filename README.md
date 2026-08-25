@@ -82,4 +82,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/HarshidGiriver/DSA/tree/master/1108-defanging-an-ip-address) |
+| [1768-merge-strings-alternately](https://github.com/HarshidGiriver/DSA/tree/master/1768-merge-strings-alternately) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/HarshidGiriver/DSA/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
