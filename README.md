@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/HarshidGiriver/DSA/tree/master/0058-length-of-last-word) |
 | [0657-robot-return-to-origin](https://github.com/HarshidGiriver/DSA/tree/master/0657-robot-return-to-origin) |
 | [1108-defanging-an-ip-address](https://github.com/HarshidGiriver/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/HarshidGiriver/DSA/tree/master/1678-goal-parser-interpretation) |
