@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshidGiriver/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/HarshidGiriver/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/HarshidGiriver/DSA/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/HarshidGiriver/DSA/tree/master/0904-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HarshidGiriver/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/HarshidGiriver/DSA/tree/master/1095-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshidGiriver/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/HarshidGiriver/DSA/tree/master/0904-fruit-into-baskets) |
 | [3046-split-the-array](https://github.com/HarshidGiriver/DSA/tree/master/3046-split-the-array) |
 ## Counting
 |  |
@@ -99,5 +101,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/HarshidGiriver/DSA/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HarshidGiriver/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
