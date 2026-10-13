@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/HarshidGiriver/DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/HarshidGiriver/DSA/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/HarshidGiriver/DSA/tree/master/0058-length-of-last-word) |
+| [0392-is-subsequence](https://github.com/HarshidGiriver/DSA/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/HarshidGiriver/DSA/tree/master/0657-robot-return-to-origin) |
 | [1108-defanging-an-ip-address](https://github.com/HarshidGiriver/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/HarshidGiriver/DSA/tree/master/1678-goal-parser-interpretation) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/HarshidGiriver/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshidGiriver/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarshidGiriver/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/HarshidGiriver/DSA/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshidGiriver/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/HarshidGiriver/DSA/tree/master/1768-merge-strings-alternately) |
 ## Simulation
